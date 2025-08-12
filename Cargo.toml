@@ -1,0 +1,8 @@
+[package]
+name = "redb-transaction-experiment"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+redb = "3.0.0"
+tempfile = "3.20.0"
